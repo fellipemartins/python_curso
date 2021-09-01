@@ -4,7 +4,7 @@ Python para análise de dados
 
 
 
-## How to cite this content
+## Como citar este conteúdo
 
 MARTINS, Fellipe Silva (2021, September 1st). Curso Python.
 Available in: https://github.com/fellipemartins/python_curso
