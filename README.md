@@ -3,7 +3,7 @@
 Sejam bem-vindos(as) ao material complementar da disciplina de análise de dados para internet das coisas (parte da especialização em IoT / [Universidade Nove de Julho](uninove.br)). Esta disciplina tem por objetivo explorar conceitos introdutórios de programação em `Python`, manipulação e limpeza de dados com bibliotecas como `pandas`, `numpy`, `pyjanitor`, além de conceitos de estatística e visualização de dados.
 
 ### *Professor*
-Esta disciplina é oferecida pelo professor Fellipe Silva Martins.
+Esta disciplina é oferecida pelo professor Fellipe Silva Martins. <br>
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4240645Z2" width="100" align="center"/>
 
 * [Currículo Lattes](http://lattes.cnpq.br/7912881403948084)
