@@ -23,6 +23,12 @@ Além disso, a disciplina é inspirada em outras:
 
 ## Como citar este conteúdo
 ```plain text
+ABNT (NBR):
+MARTINS, F. S. Curso Python. Disponível em: <https://github.com/fellipemartins/python_curso>. Acesso em: 09 set. 2021.
+
+APA:
+Martins, F. S. (2021, Sept 09). Python Curso. https://github.com/fellipemartins/python_curso
+
 MARTINS, Fellipe Silva (2021, September 1st). Curso Python.
 Disponível em in: https://github.com/fellipemartins/python_curso
 ```
