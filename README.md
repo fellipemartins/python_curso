@@ -22,8 +22,10 @@ Além disso, a disciplina é inspirada em outras:
 
 
 ## Como citar este conteúdo
+```plain text
 MARTINS, Fellipe Silva (2021, September 1st). Curso Python.
 Disponível em in: https://github.com/fellipemartins/python_curso
+```
 
 Ou formato BibTeX (LaTeX):
 ```bibtex
