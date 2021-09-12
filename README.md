@@ -23,11 +23,10 @@ Além disso, a disciplina é inspirada em outras:
 
 ## Como citar este conteúdo
 MARTINS, Fellipe Silva (2021, September 1st). Curso Python.
-Available in: https://github.com/fellipemartins/python_curso
+Disponível em in: https://github.com/fellipemartins/python_curso
 
-
-Or BibTeX for LaTeX:
-latex
+Ou formato BibTeX (LaTeX):
+```bibtex
 @misc{martins2021cursopython,
   author = {MARTINS, Fellipe Silva},
   title = {Curso Python},
@@ -35,7 +34,7 @@ latex
   year = {2021},
   month = {September}
 }
-
+```
 
 
 ## License
