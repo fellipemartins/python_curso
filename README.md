@@ -14,6 +14,7 @@ Esta disciplina contou com a revisão e comentários de:
 * [Prof. Dr. Leonardo Vils](http://lattes.cnpq.br/3969955798466284) - Programa de Pós-Graduação em Gestão de Projetos / Programa de Pós-Graduação em Cidades Inteligentes e Sustentáveis
 * [Prof. Dr. José Eduardo Storópoli](http://lattes.cnpq.br/2281909649311607) - Programa de Pós-Graduação em Informática e Gestão do Conhecimento / Programa de Pós-Graduação em Cidades Inteligentes e Sustentáveis
 * [Cristiano Silva Martins](http://lattes.cnpq.br/2134033520588291) - Mestre em Jornalismo de Investigação, Dados e Visualização pela Universidad Rey Juan Carlos (Espanha), mestrando em Informática e Gestão do Conhecimento (UNINOVE)
+* [Déborah Foroni](http://lattes.cnpq.br/4356168879181955) - Especialista em ciência de dados, mestranda em Informática e Gestão do Conhecimento (UNINOVE)
 
 Além disso, a disciplina é inspirada em outras:
 * **Ciência de dados para organizações** oferecida anteriormente pelos professores [Dr. Domingos Napolitano](http://lattes.cnpq.br/0433818215929535) e [Dr. Fellipe Martins](http://lattes.cnpq.br/7912881403948084) no [Programa de Pós-Graduação em Informática e Gestão do Conhecimento (UNINOVE)](https://www.uninove.br/cursos/mestrado-e-doutorado/presencial/mestrado-e-doutorado-em-inform%C3%A1tica-e-gest%C3%A3o-do-conhecimento).
@@ -22,8 +23,16 @@ Além disso, a disciplina é inspirada em outras:
 
 
 ## Como citar este conteúdo
+```plain text
+ABNT (NBR):
+MARTINS, F. S. Curso Python. Disponível em: <https://github.com/fellipemartins/python_curso>. Acesso em: 09 set. 2021.
+
+APA:
+Martins, F. S. (2021, Sept 09). Python Curso. https://github.com/fellipemartins/python_curso
+
 MARTINS, Fellipe Silva (2021, September 1st). Curso Python.
 Disponível em in: https://github.com/fellipemartins/python_curso
+```
 
 Ou formato BibTeX (LaTeX):
 ```bibtex
