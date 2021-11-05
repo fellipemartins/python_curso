@@ -2,7 +2,7 @@
 
 Sejam bem-vindos(as) ao material complementar da disciplina de análise de dados para internet das coisas (parte da especialização em IoT / [Universidade Nove de Julho](uninove.br)). Esta disciplina tem por objetivo explorar conceitos introdutórios de programação em `Python`, manipulação e limpeza de dados com bibliotecas como `pandas`, `numpy`, `pyjanitor`, além de conceitos de estatística e visualização de dados.
 
-### *Professor*
+## Professor
 Esta disciplina é oferecida pelo professor Fellipe Silva Martins. <br>
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4240645Z2" width="100" align="center"/>
 
@@ -20,7 +20,10 @@ Além disso, a disciplina é inspirada em outras:
 * **Ciência de dados para organizações** oferecida anteriormente pelos professores [Dr. Domingos Napolitano](http://lattes.cnpq.br/0433818215929535) e [Dr. Fellipe Martins](http://lattes.cnpq.br/7912881403948084) no [Programa de Pós-Graduação em Informática e Gestão do Conhecimento (UNINOVE)](https://www.uninove.br/cursos/mestrado-e-doutorado/presencial/mestrado-e-doutorado-em-inform%C3%A1tica-e-gest%C3%A3o-do-conhecimento).
 * **Ciência de dados** oferecida pelo professor [Prof. Dr. José Eduardo Storópoli](http://lattes.cnpq.br/2281909649311607) com colaboração do [Dr. Edson Melo de Souza](http://lattes.cnpq.br/2641658716558510).
 
-
+## Conteúdo
+* [Aula 01 - Apresentação da disciplina](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2001%20-%20Apresenta%C3%A7%C3%A3o%20da%20disciplina.ipynb)
+* [Aula 02 - Ciência de dados, analytics; Revisão de dados](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2002%20-%20Ci%C3%AAncia%20de%20dados%2C%20analytics%3B%20Revis%C3%A3o%20de%20dados.ipynb)
+* [Aula 03 Introdução à programação em Python (1)](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20em%20Python%20%281%29.ipynb)
 
 ## Como citar este conteúdo
 ```plain text
