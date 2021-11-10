@@ -25,7 +25,7 @@ Além disso, a disciplina é inspirada em outras:
 * [Aula 02 - Ciência de dados, analytics; Revisão de dados](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2002%20-%20Ci%C3%AAncia%20de%20dados%2C%20analytics%3B%20Revis%C3%A3o%20de%20dados.ipynb)
 * [Aula 03 - Introdução à programação em Python (1)](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2003%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20em%20Python%20%281%29.ipynb)
 * [Aula 04 - Introdução à programação em Python (2)](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2004%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20em%20Python%20%282%29.ipynb)
-* Importação e limpeza de dados
+* [Aula 05 - Importação e limpeza de dados](https://nbviewer.org/github/fellipemartins/python_curso/blob/main/Aula%2005%20-%20importando%20e%20limpando%20dados.ipynb)
 * Exploração e filtragem de dados
 * Manipulação para análise de dados
 * Fundamentos de estatística para análise exploratória de dados
