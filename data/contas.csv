@@ -1,0 +1,10 @@
+﻿Cliente (ID);dia e horário;número de itens;total da conta;Promoção;Cupom;Localização;compras anteriores
+3564;20201001';2;R$ 235,78;Sim;10%;São Paulo - SP;2
+4536;20201015';18;R$ 3.452,89;Não;10%;São Paulo - SP;3
+9730;20201103';5;R$ 1.894,36;Sim;;Rio de Janeiro - RJ;0
+6574;20201114';45;R$ 8.934,76;Sim;10%;Contagem / MG;4
+2534.0;20201203';;R$ 573,65;Não;;Osasco - SP;não
+5368;20201220';6;R$ 2.365,84;Sim;15%;Volta Redonda - RJ;3
+2356;20210104';36;R$ 6.342,90;não;5%;Belo Horizonte- MG;2
+6345;;6;R$ 983,76;Sim;10%;São Paulo - SP;1
+6457;20210201';13;R$ 1.723,04;Não;5%;Rio de Janeiro, RJ;3
