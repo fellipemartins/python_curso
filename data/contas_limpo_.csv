@@ -1,0 +1,5 @@
+cliente_id,dia_e_horario,total_da_conta,promocao,cupom,compras_anteriores,cidade,estado,total_sem_desconto,conta_cat
+7364,2020-10-01,1435.8,True,0.1,2,São Paulo,SP,259.2,barato
+6336,2020-10-15,6452.0,False,0.1,3,São Paulo,SP,3798.0,caro
+9230,2020-11-03,794.0,True,0.0,0,Rio de Janeiro,RJ,1894.0,medio
+9474,2020-11-14,936.0,True,0.1,4,Belo Horizonte,MG,9830.0,caro
