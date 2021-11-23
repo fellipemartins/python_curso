@@ -31,6 +31,9 @@ Além disso, a disciplina é inspirada em outras:
 * Visualização de dados
 * Apresentação de projetos (alunos) e encerramento
 
+## Trabalhos realizados pelos alunos:
+[Análise Sensor Temperatura - Robson Aparecido Ferreira da Silva](https://github.com/robsonap/Trabalho-Analise-Dados)
+
 ## Como citar este conteúdo
 ```plain text
 ABNT (NBR):
